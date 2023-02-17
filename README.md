@@ -8,8 +8,9 @@ Belajar Kelas Dasar Git Dengan Github (Progres 36%)
 - Belajar tentang dasar-dasar Git
 
 **17 Februari 2023**<br>
-Belajar Kelas Dasar Git Dengan Github (Progres 38%)
+Belajar Kelas Dasar Git Dengan Github (Progres 51%)
 - Belajar tentang Studi Kasus Pengalaman Belajar
+- Belajar tentang Git Branches yaitu membuat branch baru
 
 
 
